@@ -31,16 +31,16 @@ Simple and intuitive interface.
 ### Contributing:
 Contributions are welcome! Please follow these steps to contribute:
 
-## Authors:
+## Authors
 Ray Shkabari - rshkabari
 
-## Contact:
+## Contact
 Email: rshkabari@gmail.com
 
 Project Link: https://github.com/rshkabari/ChessV2
 
-## Note for Web-Based IDE Users:
+## Note for Web-Based IDE Users
 ChessV2 may not launch correctly on web-based versions of IDEs like VS Code. Please use a desktop-based IDE or code editor to run and develop this game.
 
-## License:
-This project is not currently under any specific open-source license. If you decide to add a license, update this section to link to the LICENSE file in the repository.
+## License
+This project is not currently under any specific open-source license.
