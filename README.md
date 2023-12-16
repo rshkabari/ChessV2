@@ -1,5 +1,5 @@
 # ChessV2
-ChessV2 is an interactive chess game developed in Python using the Pygame library. It provides a user-friendly interface with features like in-game timers, score tracking, and visually engaging graphics. The game aims to offer both a challenging and enjoyable experience for chess enthusiasts and casual players alike.
+ChessV2 is an interactive chess game developed in Python using the Pygame library. It provides a user-friendly interface with visually engaging graphics. The game aims to offer both a challenging and enjoyable experience for chess enthusiasts and casual players alike.
 
 ## Getting Started
 These instructions will help you get ChessV2 up and running on your local machine for development, testing, and playing.
